@@ -21,5 +21,6 @@ My name is Fang Biao. I'm currently pursuing my Master degree with the college o
 |Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference|神经网络算法有整型效量化与训练|已上传|
 |Speeding up Convolutional Neural Networks with Low Rank Expansions|地址分解提速神经网络|已上传|
 |A Survey of Model Compression and Acceleration for Deep Neural Networks|/关于深度神经网络模型压缩与加速方面的调查|已上传|
+|介绍比较详细的量化公式|https://mp.weixin.qq.com/s?__biz=Mzg3ODU2MzY5MA==&mid=2247488318&idx=1&sn=048c1b78f3b2cb25c05abb115f20d6c6&chksm=cf108b3bf867022d1b214928102d65ed691c81955b59ca02bccdee92584ad9aa8e390e1d2978#rd
 ## 联系方式
-afetsc2008@sina.com
+afetsc2008@sina.com|
